@@ -1,1 +1,1 @@
-Solutions forInzva 25 winter qual
+Solutions for Inzva 25 wintercamp qual
