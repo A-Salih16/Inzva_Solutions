@@ -1,2 +1,2 @@
 # Inzva_Solutions
-Solutions for  various questions asked in previous inzva qualification competitions
+Solutions for  various questions asked in previous inzva qualification rounds
